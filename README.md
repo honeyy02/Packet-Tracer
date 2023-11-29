@@ -1,1 +1,2 @@
 # Packet-Tracer
+The goal of this Packet Tracer project is to address the connection and communication needs of an educational institution by planning and executing a small college network. This network's diverse components—such as servers, routers, switches, and end devices—combine to form an extensive and useful network architecture. The goal of this project is to improve knowledge and abilities about network configuration, design, and maintenance.
